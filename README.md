@@ -1,6 +1,3 @@
-
-Elbette! İşte emoji eklenmiş güncellenmiş README metni:
-
 Doviz Ofisi Projesi 💱
 Bu proje, Türkiye Cumhuriyet Merkez Bankası (TCMB) tarafından sağlanan döviz kurlarını kullanarak kullanıcıların döviz alış ve satış işlemleri yapabilmesini sağlayan bir masaüstü uygulamasıdır. Uygulama, TCMB'nin güncel döviz kurlarını XML formatında alarak gerçek zamanlı işlemler gerçekleştirmektedir. 🌐
 
